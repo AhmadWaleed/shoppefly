@@ -26,7 +26,7 @@
   
           <div v-show="isOpen" class="lg:hidden">
             <div class="border border-t border-gray-600 mt-6"></div>
-            <ul class="lg:hidden flex flex-col space-y-2 mt-6">
+            <ul class="flex flex-col space-y-2 mt-6">
                 <li><a class="hover:text-gray-500" href="#">Requesting</a></li>
                 <li><a class="hover:text-gray-500" href="#">Traveling</a></li>
                 <li><a class="hover:text-gray-500" href="#">How it works</a></li>
